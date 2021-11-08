@@ -1,0 +1,14 @@
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\bin\Debug\netcoreapp3.1\ValueAddition.exe
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\bin\Debug\netcoreapp3.1\ValueAddition.deps.json
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\bin\Debug\netcoreapp3.1\ValueAddition.runtimeconfig.json
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\bin\Debug\netcoreapp3.1\ValueAddition.runtimeconfig.dev.json
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\bin\Debug\netcoreapp3.1\ValueAddition.dll
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\bin\Debug\netcoreapp3.1\ValueAddition.pdb
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.csproj.AssemblyReference.cache
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.AssemblyInfoInputs.cache
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.AssemblyInfo.cs
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.csproj.CoreCompileInputs.cache
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.dll
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.pdb
+C:\Users\tu201803071\source\repos\ValueAddition\ValueAddition\obj\Debug\netcoreapp3.1\ValueAddition.genruntimeconfig.cache
